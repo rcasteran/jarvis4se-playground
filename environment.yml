@@ -1,0 +1,7 @@
+name: python 3.9
+dependencies:
+  - python=3.9
+  - pip
+  - pip:
+    - jarvis4se
+    
